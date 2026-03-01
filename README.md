@@ -1,7 +1,7 @@
 # Hello, I'm Sristi Bhattacharjee
 
-## - Data Science Student
-## - Bioinformatics Minor
+### - Data Science Student
+### - Bioinformatics Minor
 
 
 ** bolding **
