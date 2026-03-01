@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hello, I'm Sristi Bhattacharjee
 
+## - Data Science Student
+## - Bioinformatics Minor
+
+
+** bolding **
+[link name](link)
 <!--
 **sristi-bhattacharjee/sristi-bhattacharjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
